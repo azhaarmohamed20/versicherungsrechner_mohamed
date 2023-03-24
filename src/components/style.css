@@ -1,6 +1,4 @@
 .calculator {
     display: grid;
     justify-content: center;
-    border: 10px solid;
-    border-color: black;
 }
