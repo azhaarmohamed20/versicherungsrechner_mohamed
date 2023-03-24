@@ -24,7 +24,6 @@ Ich informiere regelmässig über meine Tätigkeiten.
 
 ## Liste der noch anstehenden Ideen
 
-* [ ] Navigationsleiste implementieren
 * [ ] Seite Über mich implementieren
 * [ ] 
 * [ ] 
@@ -43,12 +42,12 @@ Ich informiere regelmässig über meine Tätigkeiten.
 
 #### in Arbeit
 
-* [ ] Hauptseite mit Rechner implementieren
+* [ ] Navigationsleiste implementieren
 * [ ] <Idee>
 
 #### erledigt
 
-* [ ] <Idee>
+* [x] Hauptseite mit Rechner implementieren
 * [ ] <Idee>
 
 
