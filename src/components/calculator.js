@@ -15,11 +15,15 @@ export default function Calculator(){
         })
     };
 
+    function onclick(){
+        let result = (formValues.summe/ formValues.wert) * formValues.schaden
+        console.log(result);
+    }
 
 
 
     return (
-        <form>
+        <div>
             <label>Versicherungssumme</label>
             <input type="number" name="summe" value={formValues.summe} onChange={handleOnChange}></input>
             <br></br>
@@ -29,7 +33,7 @@ export default function Calculator(){
             <label>Schaden</label>
             <input type="number" name="schaden" value={formValues.schaden} onChange={handleOnChange}></input>
             <br></br>
-            <button>Berechnen</button>
-        </form>
+            <button onClick={onclick}>Berechnen</button>
+        </div>
     )
 }
