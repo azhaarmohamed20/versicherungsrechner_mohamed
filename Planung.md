@@ -2,9 +2,9 @@
 
 | Bezeichnung    | Angaben        |
 | -------------- | ---------------|
-| Autoren:       |                |
-| Erstellt am:   |                |
-| Git-Repo-URL   | [Repo](https://gitlab.com/<projekt>) |
+| Autoren:       | Azhaar Mohamed |
+| Erstellt am:   | 24.03.2023     |
+| Git-Repo-URL   | [Repo](https://github.com/azhaarmohamed20/versicherungsrechner) |
 
 ---
 
@@ -24,23 +24,26 @@ Ich informiere regelmässig über meine Tätigkeiten.
 
 ## Liste der noch anstehenden Ideen
 
-* [x] <Idee>
-* [ ] <Idee>
+* [ ] Navigationsleiste implementieren
+* [ ] Seite Über mich implementieren
+* [ ] 
+* [ ] 
+* [ ] 
 
 ---
 
 ## Liste der Arbeiten, die ich am erledigen bin
 
-* Zeitraum: von .. bis
+* Zeitraum: von 24.03.23 bis 14.04.23
 
 #### offen
 
-* [ ] <Idee>
-* [ ] <Idee>
+* [ ] Seite mit Impressum
+* [ ] Seite mit Datenschutzhinweisen implementieren
 
 #### in Arbeit
 
-* [ ] <Idee>
+* [ ] Hauptseite mit Rechner implementieren HTML/CSS
 * [ ] <Idee>
 
 #### erledigt
@@ -53,5 +56,6 @@ Ich informiere regelmässig über meine Tätigkeiten.
 
 ## Liste der zuvor abgeschlossenen Arbeiten
 
-* [ ] <Idee>
-* [ ] <Idee>
+* [x] Entwurf zur Webseite
+* [x] Git-Repo mit Basisprojekt aufgesetzt
+* [x] Planung mit ersten Ideen
