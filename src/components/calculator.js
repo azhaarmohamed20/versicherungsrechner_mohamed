@@ -1,10 +1,12 @@
 import { useState } from "react"
+import './style.css';
 
 export default function Calculator(){
     const [formValues, setFormValues] = useState ({
         summe: 0,
         wert: 0,
-        schaden: 0
+        schaden: 0,
+        ergebnis: 0
     });
 
     const handleOnChange = (event) =>{
@@ -16,14 +18,15 @@ export default function Calculator(){
     };
 
     function onclick(){
-        let result = (formValues.summe/ formValues.wert) * formValues.schaden
-        console.log(result);
+       setFormValues({
+            ...formValues, ergebnis: formValues.summe / formValues.wert * formValues.schaden
+       })
     }
 
 
 
     return (
-        <div>
+        <div className="calculator">
             <label>Versicherungssumme</label>
             <input type="number" name="summe" value={formValues.summe} onChange={handleOnChange}></input>
             <br></br>
@@ -34,6 +37,7 @@ export default function Calculator(){
             <input type="number" name="schaden" value={formValues.schaden} onChange={handleOnChange}></input>
             <br></br>
             <button onClick={onclick}>Berechnen</button>
+            <p>{formValues.ergebnis}</p>
         </div>
     )
 }
