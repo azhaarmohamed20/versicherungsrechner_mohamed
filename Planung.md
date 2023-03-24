@@ -43,7 +43,7 @@ Ich informiere regelmässig über meine Tätigkeiten.
 
 #### in Arbeit
 
-* [ ] Hauptseite mit Rechner implementieren HTML/CSS
+* [ ] Hauptseite mit Rechner implementieren
 * [ ] <Idee>
 
 #### erledigt
