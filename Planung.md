@@ -27,7 +27,7 @@ Ich informiere regelmässig über meine Tätigkeiten.
 * [ ] Seite Über mich implementieren
 * [ ] Alle Seite stylen mit CSS
 * [ ] README schreiben
-* [ ] 
+* [ ] Footer implementieren
 
 ---
 
@@ -43,13 +43,13 @@ Ich informiere regelmässig über meine Tätigkeiten.
 #### in Arbeit
 
 * [ ] Haupseite implementieren
-* [ ] Navigationsleiste implementieren
+* [ ] 
 
 
 #### erledigt
 
 * [x] Komponente für ersten Rechner implementieren
-* [ ] <Idee>
+* [x] Navigationsleiste implementieren
 
 
 ---
