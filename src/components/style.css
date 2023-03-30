@@ -2,3 +2,22 @@
     display: grid;
     justify-content: center;
 }
+
+ul{
+    list-style-type: none;
+    display: flex;
+    text-decoration: none;
+}
+
+li{
+    margin-right: 20px;
+    text-decoration: none;
+}
+
+#nav-link{
+    text-decoration: none;
+}
+
+.active{
+    color:red;
+}
