@@ -27,7 +27,8 @@ Ich informiere regelmässig über meine Tätigkeiten.
 * [ ] Seite Über mich implementieren
 * [ ] Alle Seite stylen mit CSS
 * [ ] README schreiben
-* [ ] Footer implementieren
+* [ ] Seite mit Datenschutzhinweisen implementieren
+* [ ] Seite mit Impressum
 
 ---
 
@@ -37,13 +38,13 @@ Ich informiere regelmässig über meine Tätigkeiten.
 
 #### offen
 
-* [ ] Seite mit Impressum
-* [ ] Seite mit Datenschutzhinweisen implementieren
 * [ ] 
+* [ ] Haupseite implementieren
+
 #### in Arbeit
 
-* [ ] Haupseite implementieren
-* [ ] 
+* [ ] Footer implementieren
+* [ ] Seite für Rechner
 
 
 #### erledigt
