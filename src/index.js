@@ -7,6 +7,7 @@ import Navbar from './components/navbar';
 import { Route } from 'react-router-dom';
 import Home from './pages/Home';
 import { BrowserRouter as Router, Routes } from 'react-router-dom';
+import Rechner from './pages/Rechner';
 
 
 ReactDOM.render(
@@ -14,7 +15,7 @@ ReactDOM.render(
     <Navbar />
     <Routes>
       <Route path='/' element={<Home />}/>
-      <Route path='/rechner' element={<Home />}/>
+      <Route path='/rechner' element={<Rechner />}/>
       <Route path='/about' element={<Home />}/>
     </Routes>
   </Router>,
