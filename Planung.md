@@ -43,7 +43,7 @@ Ich informiere regelmässig über meine Tätigkeiten.
 
 #### in Arbeit
 
-* [ ] Footer implementieren
+* [ ] Rechner Komponente überarbeiten
 * [ ] Seite für Rechner
 
 
@@ -51,6 +51,7 @@ Ich informiere regelmässig über meine Tätigkeiten.
 
 * [x] Komponente für ersten Rechner implementieren
 * [x] Navigationsleiste implementieren
+* [x] Footer implementieren
 
 
 ---
