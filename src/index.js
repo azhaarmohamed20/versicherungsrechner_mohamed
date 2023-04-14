@@ -9,6 +9,7 @@ import Home from './pages/Home';
 import { BrowserRouter as Router, Routes } from 'react-router-dom';
 import Rechner from './pages/Rechner';
 import Footer from './components/footer';
+import About from './pages/About';
 
 
 ReactDOM.render(
@@ -17,7 +18,7 @@ ReactDOM.render(
     <Routes>
       <Route path='/' element={<Home />}/>
       <Route path='/rechner' element={<Rechner />}/>
-      <Route path='/about' element={<Home />}/>
+      <Route path='/about' element={<About />}/>
     </Routes>
     <Footer />
   </Router>,
