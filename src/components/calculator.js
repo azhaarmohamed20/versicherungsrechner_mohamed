@@ -18,12 +18,20 @@ export default function Calculator(){
     };
 
     function onclick(){
-       setFormValues({
-            ...formValues, ergebnis: formValues.summe / formValues.wert * formValues.schaden
-       })
+       let calc = formValues.summe/ formValues.wert * formValues.schaden;
+       if(formValues.schaden <= calc){
+        setFormValues({
+            ...formValues, ergebnis: formValues.schaden
+        })
+       } else {
+        setFormValues({
+            ...formValues, ergebnis: formValues.summe/ formValues.wert * formValues.schaden
+        })
+       }
+      
     }
 
-
+    
 
     return (
         <div className="calculator">

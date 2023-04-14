@@ -25,7 +25,7 @@ Ich informiere regelmässig über meine Tätigkeiten.
 ## Liste der noch anstehenden Ideen
 
 * [ ] Seite Über mich implementieren
-* [ ] Alle Seite stylen mit CSS
+* [ ] Seite für Rechner
 * [ ] README schreiben
 * [ ] Seite mit Datenschutzhinweisen implementieren
 * [ ] Seite mit Impressum
@@ -44,7 +44,7 @@ Ich informiere regelmässig über meine Tätigkeiten.
 #### in Arbeit
 
 * [ ] Rechner Komponente überarbeiten
-* [ ] Seite für Rechner
+* [ ] Alle Seite stylen mit CSS
 
 
 #### erledigt
