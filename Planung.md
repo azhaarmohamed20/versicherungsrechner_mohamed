@@ -25,7 +25,6 @@ Ich informiere regelmässig über meine Tätigkeiten.
 ## Liste der noch anstehenden Ideen
 
 * [ ] Seite Über mich implementieren
-* [ ] Seite für Rechner
 * [ ] README schreiben
 * [ ] Seite mit Datenschutzhinweisen implementieren
 * [ ] Seite mit Impressum
@@ -34,17 +33,17 @@ Ich informiere regelmässig über meine Tätigkeiten.
 
 ## Liste der Arbeiten, die ich am erledigen bin
 
-* Zeitraum: von 24.03.23 bis 14.04.23
+* Zeitraum: von 21.04.23 bis 11.05.23
 
 #### offen
 
 * [ ] 
-* [ ] Haupseite implementieren
+* [ ] Haupseite inhalt hinzufügen
 
 #### in Arbeit
 
-* [ ] Rechner Komponente überarbeiten
 * [ ] Alle Seite stylen mit CSS
+* [ ] Rechner Komponente überarbeiten
 
 
 #### erledigt
