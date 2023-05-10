@@ -3,28 +3,26 @@ import './style.css';
 
 export default function Navbar(){
     return (
-        <div>
-            <nav>
+        <div className="ml-[200px] p-3">
+            <nav className="max-w-auto" >
                 <div>
-                    <div>
-                        <ul>
-                            <li>
-                                <NavLink id="nav-link" to="/" activeClassName="active">
-                                    Home
-                                </NavLink>
-                            </li>
-                            <li>
-                                <NavLink id="nav-link"  to="/rechner" activeClassName="active">
-                                    Rechner
-                                </NavLink>
-                            </li>
-                            <li>
-                                <NavLink id="nav-link"  to="/about" activeClassName="active">
-                                    About
-                                </NavLink>
-                            </li>
-                        </ul>
-                    </div>
+                    <ul className="flex items-center gap-[14vw]">
+                        <li className="text-3xl font-semibold" >
+                            <NavLink className="text-black aria-[current=page]:text-blue-300" to="/">
+                                Home
+                            </NavLink>
+                        </li>
+                        <li className="text-3xl font-semibold">
+                            <NavLink className="text-black aria-[current=page]:text-blue-300" to="/rechner" >
+                                Rechner
+                            </NavLink>
+                        </li>
+                        <li className="text-3xl font-semibold">
+                            <NavLink className="text-black aria-[current=page]:text-blue-300" to="/about" >
+                                About
+                            </NavLink>
+                        </li>
+                    </ul>
                 </div>
             </nav>
         </div>
