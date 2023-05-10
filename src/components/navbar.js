@@ -7,17 +7,17 @@ export default function Navbar(){
             <nav className="max-w-auto" >
                 <div>
                     <ul className="flex items-center gap-[14vw]">
-                        <li className="text-3xl font-semibold" >
+                        <li className="text-2xl font-light" >
                             <NavLink className="text-black aria-[current=page]:text-blue-300" to="/">
                                 Home
                             </NavLink>
                         </li>
-                        <li className="text-3xl font-semibold">
+                        <li className="text-2xl font-light">
                             <NavLink className="text-black aria-[current=page]:text-blue-300" to="/rechner" >
                                 Rechner
                             </NavLink>
                         </li>
-                        <li className="text-3xl font-semibold">
+                        <li className="text-2xl font-light">
                             <NavLink className="text-black aria-[current=page]:text-blue-300" to="/about" >
                                 About
                             </NavLink>
