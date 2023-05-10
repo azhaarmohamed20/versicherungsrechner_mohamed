@@ -34,18 +34,22 @@ export default function Calculator(){
     
 
     return (
-        <div className="calculator">
-            <label>Versicherungssumme</label>
-            <input type="number" name="summe" value={formValues.summe} onChange={handleOnChange}></input>
-            <br></br>
-            <label>Versicherungswert</label>
-            <input type="number" name="wert" value={formValues.wert} onChange={handleOnChange}></input>
-            <br></br>
-            <label>Schaden</label>
-            <input type="number" name="schaden" value={formValues.schaden} onChange={handleOnChange}></input>
-            <br></br>
-            <button onClick={onclick}>Berechnen</button>
-            <p>{formValues.ergebnis}</p>
+        <div className="flex flex-col justify-center items-center pt-20 ">
+            <div className="flex flex-col border-blue-200 border-[3px] rounded-[50px] p-10 ">
+                <label className="text-blue-300 text-xl">Versicherungssumme</label>
+                <input className="border-2 border-gray-500 rounded-full px-2"  type="number" name="summe" value={formValues.summe} onChange={handleOnChange}></input>
+                <br></br>
+                <label className="text-blue-300 text-xl">Versicherungswert</label>
+                <input className="border-2 border-gray-500 rounded-full px-2" type="number" name="wert" value={formValues.wert} onChange={handleOnChange}></input>
+                <br></br>
+                <label className="text-blue-300 text-xl">Schaden</label>
+                <input className="border-2 border-gray-500 rounded-full px-2"  type="number" name="schaden" value={formValues.schaden} onChange={handleOnChange}></input>
+                <br></br>
+                <button className=" bg-blue-100 hover:bg-blue-200 rounded-full p-2 text-l font-bold" onClick={onclick}>Berechnen</button>
+                <br></br>
+                <p>{formValues.ergebnis}</p>  
+            </div>
+           
         </div>
     )
 }
