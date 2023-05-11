@@ -28,6 +28,7 @@ Ich informiere regelmässig über meine Tätigkeiten.
 * [ ] README schreiben
 * [ ] Seite mit Datenschutzhinweisen implementieren
 * [ ] Seite mit Impressum
+* [ ] Deployment mit Dockerfile /Github pages
 
 ---
 
@@ -43,11 +44,12 @@ Ich informiere regelmässig über meine Tätigkeiten.
 #### in Arbeit
 
 * [ ] Alle Seite stylen mit CSS
-* [ ] Rechner Komponente überarbeiten
+* [ ] 
 
 
 #### erledigt
 
+* [x] Rechner Komponente überarbeiten
 * [x] Komponente für ersten Rechner implementieren
 * [x] Navigationsleiste implementieren
 * [x] Footer implementieren
