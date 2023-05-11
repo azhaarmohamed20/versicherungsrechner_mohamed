@@ -36,18 +36,18 @@ export default function Calculator(){
     return (
         <div className="flex justify-center items-center pt-4">
             <div className="flex flex-col border-blue-600 border-[3px] rounded-[50px] p-10 ">
-                <label className="text-blue-600 text-[20px]">Versicherungssumme</label>
+                <label className="text-blue-600 text-[20px] font-bold">Versicherungssumme</label>
                 <input className="border-2 border-gray-500 rounded-full px-2"  type="number" name="summe" value={formValues.summe} onChange={handleOnChange}></input>
                 <br></br>
-                <label className="text-blue-600 text-[20px]">Versicherungswert</label>
+                <label className="text-blue-600 text-[20px] font-bold">Versicherungswert</label>
                 <input className="border-2 border-gray-500 rounded-full px-2" type="number" name="wert" value={formValues.wert} onChange={handleOnChange}></input>
                 <br></br>
-                <label className="text-blue-600 text-[20px]">Schaden</label>
+                <label className="text-blue-600 text-[20px] font-bold">Schaden</label>
                 <input className="border-2 border-gray-500 rounded-full px-2"  type="number" name="schaden" value={formValues.schaden} onChange={handleOnChange}></input>
                 <br></br>
-                <button className=" bg-blue-500 hover:bg-blue-700 rounded-full p-2 text-l font-bold" onClick={onclick}>Berechnen</button>
+                <button className=" bg-blue-500 hover:bg-blue-700 rounded-full p-2 text-[20px] font-bold" onClick={onclick}>Berechnen</button>
                 <br></br>
-                <p>{formValues.ergebnis}</p>  
+                <p className="text-[20px]">{formValues.ergebnis}</p>  
             </div>
            
         </div>
