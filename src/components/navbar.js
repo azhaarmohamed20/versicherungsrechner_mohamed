@@ -7,18 +7,18 @@ export default function Navbar(){
             <nav className=" flex w-[80%] m-auto pt-2 ml-[500]  " >
                 <div>
                     <ul className="flex items-center gap-[14vw] justify-around">
-                        <p className=" text-[18px] font-bold text-black mr-[50px]">Versicherungsrechner</p>
-                        <li className="text-[18px] font-light" >
+                        <p className=" text-[18px] font-extrabold text-black mr-[50px]">Versicherungsrechner</p>
+                        <li className="text-[18px] font-bold " >
                             <NavLink className="text-black aria-[current=page]:text-black text-blue-600" to="/">
                                 Home
                             </NavLink>
                         </li>
-                        <li className="text-[18px] font-light">
+                        <li className="text-[18px] font-bold">
                             <NavLink className="text-black aria-[current=page]:text-black text-blue-600" to="/rechner" >
                                 Rechner
                             </NavLink>
                         </li>
-                        <li className="text-[18px] font-light ">
+                        <li className="text-[18px] font-bold ">
                             <NavLink className="text-black aria-[current=page]:text-black text-blue-600" to="/about" >
                                 About
                             </NavLink>
