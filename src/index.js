@@ -10,7 +10,8 @@ import { BrowserRouter as Router, Routes } from 'react-router-dom';
 import Rechner from './pages/Rechner';
 import Footer from './components/footer';
 import About from './pages/About';
-
+import Impressum from './pages/Impressum';
+import Datasafety from './pages/Datasafety';
 
 ReactDOM.render(
   <Router>
@@ -19,6 +20,8 @@ ReactDOM.render(
       <Route path='/' element={<Home />}/>
       <Route path='/rechner' element={<Rechner />}/>
       <Route path='/about' element={<About />}/>
+      <Route path='/impressum' element={<Impressum />}/>
+      <Route path='/datasaftey' element={<Datasafety />}/>
     </Routes>
     <Footer />
   </Router>,
