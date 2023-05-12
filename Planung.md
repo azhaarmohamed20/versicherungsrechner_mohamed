@@ -44,7 +44,7 @@ Ich informiere regelmässig über meine Tätigkeiten.
 #### in Arbeit
 
 * [ ] 
-* [ ] Deployment mit Dockerfile /Github pages
+* [x] Deployment mit Dockerfile
 
 
 #### erledigt
