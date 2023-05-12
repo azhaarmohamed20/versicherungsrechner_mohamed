@@ -7,23 +7,23 @@ Bevor ich angefangen habe zu programmieren, habe ich folgendes gemacht<br/>
 
 ## Problem Statement
 Das Problem Statement ist eine kurze, prägnante Aussage, die das Kernproblem oder die Herausforderung <br/> 
-beschreibt, die gelöst werden soll, und den Kontext für die Lösung liefert.
+beschreibt, die gelöst werden soll, und den Kontext für die Lösung liefert.<br/>
 
 ![Problem Statement](ProblemStatement.PNG)
 
 ## User Story
 Eine User Story ist eine kurze, prägnante Beschreibung aus der Perspektive eines Benutzers, <br/>
 die das Ziel, den Nutzen und die Anforderungen an ein Produkt oder eine Funktion in <br/>
-einem Satz zusammenfasst.
+einem Satz zusammenfasst.<br>
 ![User Story](UserStory.PNG)
 
 ## Key Screen
 Ein Key Screen ist die Hauptansicht oder das zentrale Element einer Benutzeroberfläche, das die <br/>
-wichtigsten Informationen, Funktionen oder Interaktionen darstellt.
+wichtigsten Informationen, Funktionen oder Interaktionen darstellt.<br/>
 ![Key Screen](KeyScreen.PNG)
 
 ## System entwerfen
-Das System für meine Applikation, dass ich design habe sieht wie folgt aus.
+Das System für meine Applikation, dass ich design habe sieht wie folgt aus.<br/>
 ![System entwerfe](System.PNG)
 
 ## Umsetzung & Reflexion
