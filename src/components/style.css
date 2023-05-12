@@ -1,4 +1,7 @@
-.calculator {
-    display: grid;
-    justify-content: center;
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    font-family:MuseoSans,helvetica,arial,sans-serif;
 }

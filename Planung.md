@@ -24,32 +24,41 @@ Ich informiere regelmässig über meine Tätigkeiten.
 
 ## Liste der noch anstehenden Ideen
 
-* [ ] Seite Über mich implementieren
 * [ ] 
 * [ ] 
 * [ ] 
+* [ ] 
+* [ ]
 
 ---
 
 ## Liste der Arbeiten, die ich am erledigen bin
 
-* Zeitraum: von 24.03.23 bis 14.04.23
+* Zeitraum: von 21.04.23 bis 12.05.23
 
 #### offen
 
-* [ ] Seite mit Impressum
-* [ ] Seite mit Datenschutzhinweisen implementieren
+* [ ] 
+* [ ] 
 
 #### in Arbeit
 
-* [ ] Navigationsleiste implementieren
-* [ ] <Idee>
+* [ ] 
+* [ ] Deployment mit Dockerfile /Github pages
+
 
 #### erledigt
 
-* [x] Hauptseite mit Rechner implementieren
-* [ ] <Idee>
-
+* [x] Rechner Komponente überarbeiten
+* [x] Komponente für ersten Rechner implementieren
+* [x] Navigationsleiste implementieren
+* [x] Footer implementieren
+* [x] Haupseite inhalt hinzufügen
+* [x] Alle Seite stylen mit CSS
+* [x] Seite mit Datenschutzhinweisen implementieren
+* [x] Seite mit Impressum
+* [x] Seite Über mich implementieren
+* [x] README schreiben
 
 ---
 
