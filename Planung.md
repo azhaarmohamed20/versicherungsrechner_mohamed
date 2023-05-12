@@ -28,7 +28,7 @@ Ich informiere regelmässig über meine Tätigkeiten.
 * [ ] 
 * [ ] 
 * [ ] 
-* [ ] Deployment mit Dockerfile /Github pages
+* [ ]
 
 ---
 
@@ -43,8 +43,8 @@ Ich informiere regelmässig über meine Tätigkeiten.
 
 #### in Arbeit
 
-* [ ] README schreiben
 * [ ] 
+* [ ] Deployment mit Dockerfile /Github pages
 
 
 #### erledigt
@@ -58,6 +58,7 @@ Ich informiere regelmässig über meine Tätigkeiten.
 * [x] Seite mit Datenschutzhinweisen implementieren
 * [x] Seite mit Impressum
 * [x] Seite Über mich implementieren
+* [x] README schreiben
 
 ---
 
