@@ -11,6 +11,7 @@ Bevor Sie diese Applikation starten, stellen Sie sicher, dass folgende Dinge ins
 ## Design und Planung
 Klicken sie auf den Link wenn sie an meinem Design und Planungsprozess interessiert sind.
 [Doku zum Design](./Doku/Design.md)
+[Planung](Planung.md)
 
 ## Inbetriebnahme
 Projekt herunterladen
