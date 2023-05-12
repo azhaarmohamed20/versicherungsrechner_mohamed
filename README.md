@@ -7,9 +7,11 @@ Das Ziel dieses Projekts ist es eine React Applikation bereitzustellen, <br/> di
 Bevor Sie diese Applikation starten, stellen Sie sicher, dass folgende Dinge installiert sind:
 * Nodejs
 * allenfalls Docker
+
 ## Design
 Klicken sie auf den Link wenn sie an meinem Design prozess interessiert sind.
 [Doku zum Design](./Doku/Design.md)
+
 ## Inbetriebnahme
 Projekt herunterladen
 <br/>
