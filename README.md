@@ -8,8 +8,8 @@ Bevor Sie diese Applikation starten, stellen Sie sicher, dass folgende Dinge ins
 * Nodejs
 * allenfalls Docker
 
-## Design
-Klicken sie auf den Link wenn sie an meinem Design prozess interessiert sind.
+## Design und Planung
+Klicken sie auf den Link wenn sie an meinem Design und Planungsprozess interessiert sind.
 [Doku zum Design](./Doku/Design.md)
 
 ## Inbetriebnahme
