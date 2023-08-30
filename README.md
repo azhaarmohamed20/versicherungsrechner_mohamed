@@ -1,5 +1,7 @@
 # Versicherungsrechner
 
+Die Seite wurde mit Firebase gehostet:[Webseite](https://versicherungsrechnermohamed.web.app/) <br>
+Achtung Seite ist nicht für mobile entwickelt worden.
 ## Ziel
 Das Ziel dieses Projekts ist es eine React Applikation bereitzustellen, <br/> die die Summe berechnet die die Versicherung im Falle eines Schadens übernimmt
 
